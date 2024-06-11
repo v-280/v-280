@@ -1,7 +1,9 @@
-# 💫 About Me:
- Welcome to my GitHub profile! I'm a passionate software developer and a B.Tech Computer Science Engineering student at Maharshi Dayanand University.I love coding, building projects, and exploring new technologies.
+<H1 align="center"> Hi 👋, I'm Vrinda</H1>
+<H3 align="center"><p style="color:skyblue" ><i>A passionate B.Tech Computer Science student at Maharshi Dayanand University.</H3></i></H3></font></p>
+
  
- 
+ <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif">
+
 
 
 ## 🌐 Socials:
