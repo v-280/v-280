@@ -1,5 +1,7 @@
 # 💫 About Me:
- Welcome to my GitHub profile! I'm a passionate software developer and a B.Tech Computer Science Engineering student at Maharshi Dayanand University. <br>I love coding, building projects, and exploring new technologies.<br>
+ Welcome to my GitHub profile! I'm a passionate software developer and a B.Tech Computer Science Engineering student at Maharshi Dayanand University.I love coding, building projects, and exploring new technologies.
+ 
+ 
 
 
 ## 🌐 Socials:
