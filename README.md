@@ -4,7 +4,7 @@
 
 <h3><ul>
  <li>🔭 I’m interested in <b>DSA</b> and <B>DEV</B> </li>
- <li>🌱 I’m currently learning full stack web development.</li>
+ <li>🌱 I’m currently learning Mern Stack.</li>
 <li>👯 I’m looking to collaborate on <b>multiple projects.</b></li>
 
 
