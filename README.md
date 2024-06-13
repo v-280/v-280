@@ -1,19 +1,22 @@
 
-<H1 align="center"> Hi there! 👋, I'm Vrinda</H1>
-<H3 align="center"><i>Aspiring Software Engineer | Web Developer | Coder | Open Source Enthusiast</H3></i></H3></font></p>
+<h1 align="center">Hi !<img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" height="40px" width="40px">My name is Vrinda</h1>
 
+
+<h2 align ="center"><i>Aspiring Software Engineer | Web Developer | Coder</i></h2>
 <img align="right" alt="coding" width="400" height="250" src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif">
 
-## 🌟 About:
-I'm passionate about coding and creating beautiful websites.
-<h3 ><ul>
- <li>🔭 I’m interested in <b>DSA</b> and <B>DEV</B> </li>
- <li>🌱 I’m currently learning Mern Stack.</li>
- <li>🎓 Graduating in June 2025</li>
-<li>👯 I’m looking to collaborate on <b>multiple projects.</b></li>
+*   🌍  I'm based in India  
+*   🧠  I'm learning Mern Stack and DSA
+*   🤝  I'm open to collaborating on Open source Projects<a href="https://www.github.com/vri234" target="_blank" rel="noreferrer">
+*   🎓 Graduating in June 2025
+*   ✉️  You can contact me at [bansalvrinda94@gmail.com](mailto:bansalvrinda94@gmail.com)
+              
 
 
-</ul></h3>
+
+
+
+
 
 
 
