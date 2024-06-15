@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi !<img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" height="40px" width="40px">My name is Vrinda</h1>
+<h1 align="center">Hi !<img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" height="40px" width="40px">I'm Vrinda</h1>
 
 
 <h2 align ="center"><i>Aspiring Software Engineer | Web Developer | Coder</i></h2>
@@ -10,6 +10,7 @@
 *   🤝  I'm open to collaborating on Open source Projects<a href="https://www.github.com/vri234" target="_blank" rel="noreferrer">
 *   🎓 Graduating in June 2025
 *   ✉️  You can contact me at [bansalvrinda94@gmail.com](mailto:bansalvrinda94@gmail.com)
+*   ⚡ Fun Fact: When I'm not coding you can find me <b><i>solving puzzles.</i>
               
 
 
