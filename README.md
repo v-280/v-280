@@ -3,7 +3,10 @@
 
 
 <h2 align ="center"><i>Aspiring Software Engineer | Web Developer | Coder</i></h2>
-<img align="right" alt="coding" width="400" height="250" src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif">
+<!-- <img align="right" alt="coding" width="400" height="250" src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif"> -->
+<!-- [![An image of @v280's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/v280)](https://holopin.io/@v280)  -->
+<img src="https://holopin.me/v280" >
+
 
 *   🌍  I'm based in India  
 *   🧠  I'm learning Mern Stack and DSA
